@@ -1,0 +1,7 @@
+timestamp,source_file,faces_detected,eyes_detected,scale_factor,min_neighbors,runtime_ms
+2026-11-21 20:16:54,IMG_20261121_153909_660.jpg,1,2,1.1,5,5175.59
+2026-11-21 20:41:38,download.jpg,1,0,1.1,5,2317.63
+2026-11-21 20:41:39,download.webp,1,1,1.1,5,9.88
+2026-11-21 20:41:39,images (1).jpg,3,0,1.1,5,7.14
+2026-11-21 20:41:39,images.jpg,1,0,1.1,5,5.84
+2026-11-21 20:41:39,Screenshot (221).png,10,0,1.1,5,66.44
